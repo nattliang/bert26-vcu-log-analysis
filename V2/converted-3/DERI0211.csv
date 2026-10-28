@@ -1,0 +1,1 @@
+session,record_type,record_type_id,time_seconds,brake_pressure_pct,commanded_torque_nm,regen_torque_nm,speed_kmh,cumulative_distance_km,status_flags,apps1_pct,apps2_pct,pedal_pct,desired_torque_nm,power_kw,speed_mph,fan_duty_pct,rtd_state

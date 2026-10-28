@@ -1,0 +1,1 @@
+t_ms,raw_apps1,raw_apps2,raw_bse1,raw_bse2,raw_hv_current,commanded_torque_nm,motor_rpm,bus_voltage_v,bus_current_a,braking,hard_braking,bspc_active,apps_plausible,rtd_latched,drive_mode_d,bms_fault,imd_fault,pm100_fault,bms_timeout,imd_can_timeout,contactors_closed,bspd_gpio_ok,imd_gpio_ok,bms_gpio_ok

@@ -1,0 +1,1 @@
+t_ms,apps1_pct,apps2_pct,pedal_pct,desired_torque_nm,power_kw,speed_mph,glv_voltage_v,inverter_temp_c,motor_temp_c,soc_pct,battery_temp_c,bms_flags_hex,bms_fault_code,imd_warn_alarms_hex,pm100_post_faults_hex,pm100_run_faults_hex,fan_duty_pct,rtd_state
